@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058163131395002368",
+    "conversation_id": "2059943224240947506",
+    "created_at": "2026-05-28T10:26:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T11:26:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059944495454859472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2038258115167277056",
+          "start": 0,
+          "username": "Mocher77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059944495454859472",
+    "in_reply_to_user_id": "2038258115167277056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059944053077356847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mocher77 确实违法不过也有很多那种偷摸卖的吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058163131395002368",
+        "conversation_id": "2059943224240947506",
+        "created_at": "2026-05-28T10:26:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:26:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059944495454859472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2038258115167277056",
+              "start": 0,
+              "username": "Mocher77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059944495454859472",
+        "in_reply_to_user_id": "2038258115167277056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059944053077356847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mocher77 确实违法不过也有很多那种偷摸卖的吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038258115167277056",
+        "conversation_id": "2059943224240947506",
+        "created_at": "2026-05-28T10:25:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:25:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059944053077356847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2058163131395002368",
+              "start": 0,
+              "username": "murrtttt0ro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059944053077356847",
+        "in_reply_to_user_id": "2058163131395002368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059943224240947506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@murrtttt0ro 其实我很想知道od的药是从哪里买呢 如果是国内的话不会违法吗 就算我在的州大麻合法我的朋友也依旧被骗了700刀 感觉国内更容易被骗了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-23T12:30:19.000Z",
+        "description": "愿望是在药效中死去໒  ྀིɞ̴̶̷ . ɞ̴̶̷𓍼ིྀა",
+        "id": "2058163131395002368",
+        "name": "🧊",
+        "pinned_tweet_id": "2058178433088393355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058163949829607424/EzutH29p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 73,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 69
+        },
+        "username": "murrtttt0ro",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-29T14:13:32.000Z",
+        "description": "不要去伤害与自己无关的人 不要被指挥去憎恨无辜的人",
+        "id": "2038258115167277056",
+        "name": "Mocher",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059666203367649280/m1uw03Dy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 12,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 11
+        },
+        "username": "Mocher77",
+        "verified": false
+      }
+    ]
+  }
+}

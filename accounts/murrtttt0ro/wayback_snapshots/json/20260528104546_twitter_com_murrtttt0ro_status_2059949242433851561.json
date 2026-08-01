@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058163131395002368",
+    "conversation_id": "2059949242433851561",
+    "created_at": "2026-05-28T10:45:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T11:45:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059949242433851561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1967887882384965632",
+          "start": 3,
+          "username": "111q_a54867"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059949242433851561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059730463057736138",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @111q_a54867: 不能通过药物逃避的现实好残酷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058163131395002368",
+        "conversation_id": "2059949242433851561",
+        "created_at": "2026-05-28T10:45:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:45:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059949242433851561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1967887882384965632",
+              "start": 3,
+              "username": "111q_a54867"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059949242433851561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059730463057736138",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @111q_a54867: 不能通过药物逃避的现实好残酷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "2059730463057736138",
+        "created_at": "2026-05-27T20:16:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T21:16:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059730463057736138"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059730463057736138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 298,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "不能通过药物逃避的现实好残酷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-23T12:30:19.000Z",
+        "description": "愿望是在药效中死去໒  ྀིɞ̴̶̷ . ɞ̴̶̷𓍼ིྀა",
+        "id": "2058163131395002368",
+        "name": "🧊",
+        "pinned_tweet_id": "2058178433088393355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058163949829607424/EzutH29p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 73,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 73
+        },
+        "username": "murrtttt0ro",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "你从未感受过你粉碎我灵魂时我的痛楚。\n希望你也能经历你给我的心碎。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "喜欢我就打钱让我过得幸福，谢谢",
+        "name": "辻井",
+        "pinned_tweet_id": "2000984821557047755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054167257560035328/mfmG5jat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2085,
+          "following_count": 1280,
+          "like_count": 7214,
+          "listed_count": 2,
+          "media_count": 285,
+          "tweet_count": 1520
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      }
+    ]
+  }
+}

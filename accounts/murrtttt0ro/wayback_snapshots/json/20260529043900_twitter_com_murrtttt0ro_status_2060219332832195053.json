@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058163131395002368",
+    "conversation_id": "2060071353051668778",
+    "created_at": "2026-05-29T04:39:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T05:39:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060219332832195053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2053902534998384640",
+          "start": 0,
+          "username": "Yequan96"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060219332832195053",
+    "in_reply_to_user_id": "2053902534998384640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060091031232929843",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yequan96 唉没人理我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058163131395002368",
+        "conversation_id": "2060071353051668778",
+        "created_at": "2026-05-29T04:39:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T05:39:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060219332832195053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2053902534998384640",
+              "start": 0,
+              "username": "Yequan96"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060219332832195053",
+        "in_reply_to_user_id": "2053902534998384640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060091031232929843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yequan96 唉没人理我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053902534998384640",
+        "conversation_id": "2060071353051668778",
+        "created_at": "2026-05-28T20:09:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T21:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060091031232929843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2058163131395002368",
+              "start": 0,
+              "username": "murrtttt0ro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060091031232929843",
+        "in_reply_to_user_id": "2058163131395002368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060071353051668778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@murrtttt0ro 你咋了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-23T12:30:19.000Z",
+        "description": "愿望是在药效中死去໒  ྀིɞ̴̶̷ . ɞ̴̶̷𓍼ིྀა",
+        "id": "2058163131395002368",
+        "name": "🧊",
+        "pinned_tweet_id": "2058178433088393355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058163949829607424/EzutH29p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 77,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 94
+        },
+        "username": "murrtttt0ro",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T18:18:53.000Z",
+        "description": "神话中的金羊毛",
+        "id": "2053902534998384640",
+        "location": "深蓝之地",
+        "name": "精神孤儿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058647030151643136/6FrLBygN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 54,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 108
+        },
+        "username": "Yequan96",
+        "verified": false
+      }
+    ]
+  }
+}

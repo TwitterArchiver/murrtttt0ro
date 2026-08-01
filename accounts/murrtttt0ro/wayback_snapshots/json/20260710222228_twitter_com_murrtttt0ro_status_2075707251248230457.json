@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058163131395002368",
+    "conversation_id": "2075707251248230457",
+    "created_at": "2026-07-10T22:22:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T23:22:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075707251248230457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1995455857237364736",
+          "start": 3,
+          "username": "liyu318266"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075707251248230457",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 98
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075567480941195523",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @liyu318266: 어짜피 이대로살아도 언젠가 자살할텐데 최대한 빨리 하는편이 낫지않나\n자살을 빨리하면 좋은점\nㄴ그나마 덜 민폐를 끼칠수있음\nㄴ하기싫은일을 덜 할수있음\nㄴ괴로움을 덜 느낄수있음"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058163131395002368",
+        "conversation_id": "2075707251248230457",
+        "created_at": "2026-07-10T22:22:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T23:22:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075707251248230457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1995455857237364736",
+              "start": 3,
+              "username": "liyu318266"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075707251248230457",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 98
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075567480941195523",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @liyu318266: 어짜피 이대로살아도 언젠가 자살할텐데 최대한 빨리 하는편이 낫지않나\n자살을 빨리하면 좋은점\nㄴ그나마 덜 민폐를 끼칠수있음\nㄴ하기싫은일을 덜 할수있음\nㄴ괴로움을 덜 느낄수있음"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995455857237364736",
+        "conversation_id": "2075567480941195523",
+        "created_at": "2026-07-10T13:07:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T14:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075567480941195523"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075567480941195523",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 11058,
+          "like_count": 361,
+          "quote_count": 9,
+          "reply_count": 0,
+          "retweet_count": 98
+        },
+        "reply_settings": "everyone",
+        "text": "어짜피 이대로살아도 언젠가 자살할텐데 최대한 빨리 하는편이 낫지않나\n자살을 빨리하면 좋은점\nㄴ그나마 덜 민폐를 끼칠수있음\nㄴ하기싫은일을 덜 할수있음\nㄴ괴로움을 덜 느낄수있음"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-23T12:30:19.000Z",
+        "description": "愿望是在药效中死去໒  ྀིɞ̴̶̷ . ɞ̴̶̷𓍼ིྀა",
+        "id": "2058163131395002368",
+        "name": "🧊",
+        "pinned_tweet_id": "2058178433088393355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058163949829607424/EzutH29p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 75,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 104
+        },
+        "url": "",
+        "username": "murrtttt0ro",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-01T11:32:14.000Z",
+        "description": "https://t.co/bITjrSvPLT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pushoong.com/ask/7479924633",
+                "end": 23,
+                "expanded_url": "https://pushoong.com/ask/7479924633",
+                "start": 0,
+                "url": "https://t.co/bITjrSvPLT"
+              }
+            ]
+          }
+        },
+        "id": "1995455857237364736",
+        "name": "두므",
+        "pinned_tweet_id": "2042499898491486233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063880628588945408/qHrNRK2K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 94,
+          "like_count": 4079,
+          "listed_count": 6,
+          "media_count": 7,
+          "tweet_count": 1627
+        },
+        "url": "",
+        "username": "liyu318266",
+        "verified": false
+      }
+    ]
+  }
+}

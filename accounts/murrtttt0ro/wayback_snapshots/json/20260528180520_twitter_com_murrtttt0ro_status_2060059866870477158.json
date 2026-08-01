@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058163131395002368",
+    "conversation_id": "2058178433088393355",
+    "created_at": "2026-05-28T18:05:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T19:05:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060059866870477158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1758428820045189120",
+          "start": 0,
+          "username": "YuSuQAQ"
+        },
+        {
+          "end": 18,
+          "id": "2048564180530446336",
+          "start": 9,
+          "username": "hiyuxxx_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060059866870477158",
+    "in_reply_to_user_id": "1758428820045189120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060045399965229177",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuSuQAQ @hiyuxxx_ 小宝宝(ˊo̴̶̷̤  ̫ o̴̶̷̤ˋ)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058163131395002368",
+        "conversation_id": "2058178433088393355",
+        "created_at": "2026-05-28T18:05:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T19:05:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060059866870477158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1758428820045189120",
+              "start": 0,
+              "username": "YuSuQAQ"
+            },
+            {
+              "end": 18,
+              "id": "2048564180530446336",
+              "start": 9,
+              "username": "hiyuxxx_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060059866870477158",
+        "in_reply_to_user_id": "1758428820045189120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060045399965229177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuSuQAQ @hiyuxxx_ 小宝宝(ˊo̴̶̷̤  ̫ o̴̶̷̤ˋ)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758428820045189120",
+        "conversation_id": "2058178433088393355",
+        "created_at": "2026-05-28T17:07:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T18:07:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060045399965229177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2058163131395002368",
+              "start": 0,
+              "username": "murrtttt0ro"
+            },
+            {
+              "end": 22,
+              "id": "2048564180530446336",
+              "start": 13,
+              "username": "hiyuxxx_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060045399965229177",
+        "in_reply_to_user_id": "2058163131395002368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058178433088393355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@murrtttt0ro @hiyuxxx_ 好神圣的脸。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-23T12:30:19.000Z",
+        "description": "愿望是在药效中死去໒  ྀིɞ̴̶̷ . ɞ̴̶̷𓍼ིྀა",
+        "id": "2058163131395002368",
+        "name": "🧊",
+        "pinned_tweet_id": "2058178433088393355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058163949829607424/EzutH29p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 74,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 82
+        },
+        "username": "murrtttt0ro",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T09:51:25.000Z",
+        "description": "我没钱，不要在我这里求得金钱。我就一傻逼。",
+        "id": "1758428820045189120",
+        "location": "距离你325m",
+        "name": "空白（负能量大王）",
+        "pinned_tweet_id": "2035888462847771098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002097716051259393/7M3q9Is9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 571,
+          "like_count": 12684,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 11510
+        },
+        "username": "YuSuQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-27T00:45:57.000Z",
+        "description": "vi）汚部屋",
+        "id": "2048564180530446336",
+        "location": "🈂️",
+        "name": "ミザ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059437486829690880/YAqmmIIv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 37,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 18
+        },
+        "username": "hiyuxxx_",
+        "verified": false
+      }
+    ]
+  }
+}

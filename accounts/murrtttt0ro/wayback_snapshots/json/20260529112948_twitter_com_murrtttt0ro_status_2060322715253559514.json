@@ -1,0 +1,408 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058163131395002368",
+    "conversation_id": "2060322715253559514",
+    "created_at": "2026-05-29T11:29:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T12:29:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060322715253559514"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 99,
+          "start": 95,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 103,
+          "start": 100,
+          "tag": "纯绿"
+        },
+        {
+          "end": 107,
+          "start": 104,
+          "tag": "黑丝"
+        },
+        {
+          "end": 111,
+          "start": 108,
+          "tag": "白丝"
+        },
+        {
+          "end": 115,
+          "start": 112,
+          "tag": "线下"
+        },
+        {
+          "end": 119,
+          "start": 116,
+          "tag": "半绿"
+        },
+        {
+          "end": 125,
+          "start": 120,
+          "tag": "atm奴"
+        },
+        {
+          "end": 131,
+          "start": 126,
+          "tag": "广州线下"
+        },
+        {
+          "end": 137,
+          "start": 133,
+          "tag": "爸爸活"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2060317200133836800",
+          "start": 3,
+          "username": "xiaonai707"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060322715253559514",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060320811500941331",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaonai707: 置顶\n=小奈 喜欢请给我打钱\n🚪52纯绿仅聊天 暂时不接线下 可以互fo互转\n🚪52 88 288 388 520 1314 金额无上限你给的越多越对你好！\n#门槛妹 #纯绿 #黑丝 #白丝 #线下 #半绿 #atm奴 #广州线下  #爸爸活 #…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 917,
+        "media_key": "3_2060320762402394112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJe60T5bUAAr4P4.jpg",
+        "width": 1164
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2060320762393989121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJe60T3bEAEv9sg.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060320762410717184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJe60T7aUAACky5.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1182,
+        "media_key": "3_2060320762377228288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJe60TzbUAA73Fh.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058163131395002368",
+        "conversation_id": "2060322715253559514",
+        "created_at": "2026-05-29T11:29:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T12:29:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060322715253559514"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 99,
+              "start": 95,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 103,
+              "start": 100,
+              "tag": "纯绿"
+            },
+            {
+              "end": 107,
+              "start": 104,
+              "tag": "黑丝"
+            },
+            {
+              "end": 111,
+              "start": 108,
+              "tag": "白丝"
+            },
+            {
+              "end": 115,
+              "start": 112,
+              "tag": "线下"
+            },
+            {
+              "end": 119,
+              "start": 116,
+              "tag": "半绿"
+            },
+            {
+              "end": 125,
+              "start": 120,
+              "tag": "atm奴"
+            },
+            {
+              "end": 131,
+              "start": 126,
+              "tag": "广州线下"
+            },
+            {
+              "end": 137,
+              "start": 133,
+              "tag": "爸爸活"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2060317200133836800",
+              "start": 3,
+              "username": "xiaonai707"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060322715253559514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060320811500941331",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaonai707: 置顶\n=小奈 喜欢请给我打钱\n🚪52纯绿仅聊天 暂时不接线下 可以互fo互转\n🚪52 88 288 388 520 1314 金额无上限你给的越多越对你好！\n#门槛妹 #纯绿 #黑丝 #白丝 #线下 #半绿 #atm奴 #广州线下  #爸爸活 #…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060320762402394112",
+            "3_2060320762393989121",
+            "3_2060320762410717184",
+            "3_2060320762377228288"
+          ]
+        },
+        "author_id": "2060317200133836800",
+        "conversation_id": "2060320811500941331",
+        "created_at": "2026-05-29T11:22:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T12:22:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060320811500941331"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 83,
+              "start": 79,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 87,
+              "start": 84,
+              "tag": "纯绿"
+            },
+            {
+              "end": 91,
+              "start": 88,
+              "tag": "黑丝"
+            },
+            {
+              "end": 95,
+              "start": 92,
+              "tag": "白丝"
+            },
+            {
+              "end": 99,
+              "start": 96,
+              "tag": "线下"
+            },
+            {
+              "end": 103,
+              "start": 100,
+              "tag": "半绿"
+            },
+            {
+              "end": 109,
+              "start": 104,
+              "tag": "atm奴"
+            },
+            {
+              "end": 115,
+              "start": 110,
+              "tag": "广州线下"
+            },
+            {
+              "end": 121,
+              "start": 117,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 126,
+              "start": 122,
+              "tag": "妈妈活"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fXjjkgwKAt",
+              "end": 150,
+              "expanded_url": "https://x.com/xiaonai707/status/2060320811500941331/photo/1",
+              "media_key": "3_2060320762402394112",
+              "start": 127,
+              "url": "https://t.co/fXjjkgwKAt"
+            },
+            {
+              "display_url": "pic.x.com/fXjjkgwKAt",
+              "end": 150,
+              "expanded_url": "https://x.com/xiaonai707/status/2060320811500941331/photo/1",
+              "media_key": "3_2060320762393989121",
+              "start": 127,
+              "url": "https://t.co/fXjjkgwKAt"
+            },
+            {
+              "display_url": "pic.x.com/fXjjkgwKAt",
+              "end": 150,
+              "expanded_url": "https://x.com/xiaonai707/status/2060320811500941331/photo/1",
+              "media_key": "3_2060320762410717184",
+              "start": 127,
+              "url": "https://t.co/fXjjkgwKAt"
+            },
+            {
+              "display_url": "pic.x.com/fXjjkgwKAt",
+              "end": 150,
+              "expanded_url": "https://x.com/xiaonai707/status/2060320811500941331/photo/1",
+              "media_key": "3_2060320762377228288",
+              "start": 127,
+              "url": "https://t.co/fXjjkgwKAt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060320811500941331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "置顶\n=小奈 喜欢请给我打钱\n🚪52纯绿仅聊天 暂时不接线下 可以互fo互转\n🚪52 88 288 388 520 1314 金额无上限你给的越多越对你好！\n#门槛妹 #纯绿 #黑丝 #白丝 #线下 #半绿 #atm奴 #广州线下  #爸爸活 #妈妈活 https://t.co/fXjjkgwKAt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-23T12:30:19.000Z",
+        "description": "愿望是在药效中死去໒  ྀིɞ̴̶̷ . ɞ̴̶̷𓍼ིྀა",
+        "id": "2058163131395002368",
+        "name": "🧊",
+        "pinned_tweet_id": "2058178433088393355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058163949829607424/EzutH29p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 79,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 100
+        },
+        "username": "murrtttt0ro",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-29T11:11:47.000Z",
+        "description": "我是小奈 前世@xiaonaiovo707\n重生了！欢迎互fo互转\n只接纯绿半绿 暂时不接线下",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 7,
+                "username": "xiaonaiovo707"
+              }
+            ]
+          }
+        },
+        "id": "2060317200133836800",
+        "name": "奈奈々ビ",
+        "pinned_tweet_id": "2060320811500941331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060318307916607488/DqHZR_4t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 1,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 3
+        },
+        "username": "xiaonai707",
+        "verified": false
+      }
+    ]
+  }
+}

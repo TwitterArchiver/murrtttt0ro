@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059177931151114240",
+        "3_2059177931163725824",
+        "3_2059177931146969088"
+      ],
+      "media_source_tweet_id": [
+        "2059178301420143015",
+        "2059178301420143015",
+        "2059178301420143015"
+      ]
+    },
+    "author_id": "2058163131395002368",
+    "conversation_id": "2059181276008263776",
+    "created_at": "2026-05-26T07:54:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T08:54:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059181276008263776"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 66,
+          "start": 63,
+          "tag": "门槛"
+        },
+        {
+          "end": 71,
+          "start": 67,
+          "tag": "爸爸活"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1943980613406511104",
+          "start": 3,
+          "username": "da699731445831"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/w3SUtU0VM3",
+          "end": 95,
+          "expanded_url": "https://x.com/da699731445831/status/2059178301420143015/photo/1",
+          "media_key": "3_2059177931151114240",
+          "start": 72,
+          "url": "https://t.co/w3SUtU0VM3"
+        },
+        {
+          "display_url": "pic.x.com/w3SUtU0VM3",
+          "end": 95,
+          "expanded_url": "https://x.com/da699731445831/status/2059178301420143015/photo/1",
+          "media_key": "3_2059177931163725824",
+          "start": 72,
+          "url": "https://t.co/w3SUtU0VM3"
+        },
+        {
+          "display_url": "pic.x.com/w3SUtU0VM3",
+          "end": 95,
+          "expanded_url": "https://x.com/da699731445831/status/2059178301420143015/photo/1",
+          "media_key": "3_2059177931146969088",
+          "start": 72,
+          "url": "https://t.co/w3SUtU0VM3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059181276008263776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059178301420143015",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @da699731445831: 我真的很缺钱！有没有哥哥愿意入门 ᵒ̴̶̷̥́ㅂᵒ̴̶̷̣̥̀   欢迎互fo互转！\n#门槛 #爸爸活 https://t.co/w3SUtU0VM3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 792,
+        "media_key": "3_2059177931151114240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJOraxuWAAAp45M.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2059177931163725824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJOraxxWcAAnQ_E.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2059177931146969088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJOraxtWwAAVvxL.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059177931151114240",
+            "3_2059177931163725824",
+            "3_2059177931146969088"
+          ],
+          "media_source_tweet_id": [
+            "2059178301420143015",
+            "2059178301420143015",
+            "2059178301420143015"
+          ]
+        },
+        "author_id": "2058163131395002368",
+        "conversation_id": "2059181276008263776",
+        "created_at": "2026-05-26T07:54:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T08:54:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059181276008263776"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 66,
+              "start": 63,
+              "tag": "门槛"
+            },
+            {
+              "end": 71,
+              "start": 67,
+              "tag": "爸爸活"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1943980613406511104",
+              "start": 3,
+              "username": "da699731445831"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/w3SUtU0VM3",
+              "end": 95,
+              "expanded_url": "https://x.com/da699731445831/status/2059178301420143015/photo/1",
+              "media_key": "3_2059177931151114240",
+              "start": 72,
+              "url": "https://t.co/w3SUtU0VM3"
+            },
+            {
+              "display_url": "pic.x.com/w3SUtU0VM3",
+              "end": 95,
+              "expanded_url": "https://x.com/da699731445831/status/2059178301420143015/photo/1",
+              "media_key": "3_2059177931163725824",
+              "start": 72,
+              "url": "https://t.co/w3SUtU0VM3"
+            },
+            {
+              "display_url": "pic.x.com/w3SUtU0VM3",
+              "end": 95,
+              "expanded_url": "https://x.com/da699731445831/status/2059178301420143015/photo/1",
+              "media_key": "3_2059177931146969088",
+              "start": 72,
+              "url": "https://t.co/w3SUtU0VM3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059181276008263776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059178301420143015",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @da699731445831: 我真的很缺钱！有没有哥哥愿意入门 ᵒ̴̶̷̥́ㅂᵒ̴̶̷̣̥̀   欢迎互fo互转！\n#门槛 #爸爸活 https://t.co/w3SUtU0VM3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059177931151114240",
+            "3_2059177931163725824",
+            "3_2059177931146969088"
+          ]
+        },
+        "author_id": "1943980613406511104",
+        "conversation_id": "2059178301420143015",
+        "created_at": "2026-05-26T07:42:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T08:42:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059178301420143015"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 43,
+              "tag": "门槛"
+            },
+            {
+              "end": 51,
+              "start": 47,
+              "tag": "爸爸活"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/w3SUtU0VM3",
+              "end": 75,
+              "expanded_url": "https://x.com/da699731445831/status/2059178301420143015/photo/1",
+              "media_key": "3_2059177931151114240",
+              "start": 52,
+              "url": "https://t.co/w3SUtU0VM3"
+            },
+            {
+              "display_url": "pic.x.com/w3SUtU0VM3",
+              "end": 75,
+              "expanded_url": "https://x.com/da699731445831/status/2059178301420143015/photo/1",
+              "media_key": "3_2059177931163725824",
+              "start": 52,
+              "url": "https://t.co/w3SUtU0VM3"
+            },
+            {
+              "display_url": "pic.x.com/w3SUtU0VM3",
+              "end": 75,
+              "expanded_url": "https://x.com/da699731445831/status/2059178301420143015/photo/1",
+              "media_key": "3_2059177931146969088",
+              "start": 52,
+              "url": "https://t.co/w3SUtU0VM3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059178301420143015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我真的很缺钱！有没有哥哥愿意入门 ᵒ̴̶̷̥́ㅂᵒ̴̶̷̣̥̀   欢迎互fo互转！\n#门槛 #爸爸活 https://t.co/w3SUtU0VM3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-23T12:30:19.000Z",
+        "description": "愿望是在药效中死去໒  ྀིɞ̴̶̷ . ɞ̴̶̷𓍼ིྀა",
+        "id": "2058163131395002368",
+        "name": "🧊",
+        "pinned_tweet_id": "2058178433088393355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058163949829607424/EzutH29p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 41,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 18
+        },
+        "username": "murrtttt0ro",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-12T10:28:02.000Z",
+        "description": "来入门好不好呀(T^T) 不是假照 不是骗子 很好相处！\n@qlhkdr 小号 可验证",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 29,
+                "username": "qlhkdr"
+              }
+            ]
+          }
+        },
+        "id": "1943980613406511104",
+        "location": "🚪52/88/155/200/520/1314/5200",
+        "name": "da萝",
+        "pinned_tweet_id": "2059175123593072981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943980932551122944/Q2ds0xNh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 10,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 30
+        },
+        "username": "da699731445831",
+        "verified": false
+      }
+    ]
+  }
+}

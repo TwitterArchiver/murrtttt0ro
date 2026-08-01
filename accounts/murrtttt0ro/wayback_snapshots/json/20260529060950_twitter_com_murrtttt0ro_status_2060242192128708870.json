@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058163131395002368",
+    "conversation_id": "2060242192128708870",
+    "created_at": "2026-05-29T06:09:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T07:09:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060242192128708870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2019009645692760064",
+          "start": 3,
+          "username": "bamseng110101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060242192128708870",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060117349869699374",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bamseng110101: 그냥 좆같아 다 좆같아 죽어버리고 싶어 죽여버리고 싶어"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058163131395002368",
+        "conversation_id": "2060242192128708870",
+        "created_at": "2026-05-29T06:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T07:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060242192128708870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2019009645692760064",
+              "start": 3,
+              "username": "bamseng110101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060242192128708870",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060117349869699374",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bamseng110101: 그냥 좆같아 다 좆같아 죽어버리고 싶어 죽여버리고 싶어"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019009645692760064",
+        "conversation_id": "2060117349869699374",
+        "created_at": "2026-05-28T21:53:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T22:53:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060117349869699374"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060117349869699374",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 976,
+          "like_count": 114,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "그냥 좆같아 다 좆같아 죽어버리고 싶어 죽여버리고 싶어"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-23T12:30:19.000Z",
+        "description": "愿望是在药效中死去໒  ྀིɞ̴̶̷ . ɞ̴̶̷𓍼ིྀა",
+        "id": "2058163131395002368",
+        "name": "🧊",
+        "pinned_tweet_id": "2058178433088393355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058163949829607424/EzutH29p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 78,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 96
+        },
+        "username": "murrtttt0ro",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-04T11:26:46.000Z",
+        "description": "10년생 | 우울계 | 정병계 | 자해 전시 | 트위터 잘 몰라요..🥲 | 비계: @bamseng220202 | 정트: @jeongha82173174 정지 대비 계정: @bamseng1101011 블스: https://t.co/htpDsRwzlg.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 46,
+                "username": "bamseng220202"
+              },
+              {
+                "end": 83,
+                "start": 67,
+                "username": "jeongha82173174"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "bamseng1101011"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/bamsen…",
+                "end": 137,
+                "expanded_url": "https://bsky.app/profile/bamseng110101",
+                "start": 114,
+                "url": "https://t.co/htpDsRwzlg"
+              }
+            ]
+          }
+        },
+        "id": "2019009645692760064",
+        "name": "밤셍",
+        "pinned_tweet_id": "2054040171553898982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019012014396600320/60OrrUpH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1120,
+          "following_count": 779,
+          "like_count": 4365,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 1017
+        },
+        "username": "bamseng110101",
+        "verified": false
+      }
+    ]
+  }
+}

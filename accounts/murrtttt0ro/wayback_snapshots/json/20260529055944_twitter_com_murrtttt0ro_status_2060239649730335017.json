@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060226026400280576",
+        "3_2060226026366734336"
+      ],
+      "media_source_tweet_id": [
+        "2060226036105883718",
+        "2060226036105883718"
+      ]
+    },
+    "author_id": "2058163131395002368",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2060239649730335017",
+    "created_at": "2026-05-29T05:59:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T06:59:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060239649730335017"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 41,
+          "start": 37,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 45,
+          "start": 42,
+          "tag": "足控"
+        },
+        {
+          "end": 49,
+          "start": 46,
+          "tag": "腿控"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2060216799107719168",
+          "start": 3,
+          "username": "mollyzo9"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZIT354D0Gg",
+          "end": 73,
+          "expanded_url": "https://x.com/mollyzo9/status/2060226036105883718/photo/1",
+          "media_key": "3_2060226026400280576",
+          "start": 50,
+          "url": "https://t.co/ZIT354D0Gg"
+        },
+        {
+          "display_url": "pic.x.com/ZIT354D0Gg",
+          "end": 73,
+          "expanded_url": "https://x.com/mollyzo9/status/2060226036105883718/photo/1",
+          "media_key": "3_2060226026366734336",
+          "start": 50,
+          "url": "https://t.co/ZIT354D0Gg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060239649730335017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060226036105883718",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mollyzo9: 這里是Molly💓✨\n之前的號沒了😭現在重開\n#爸爸活 #足控 #腿控 https://t.co/ZIT354D0Gg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1493,
+        "media_key": "3_2060226026400280576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJdkp8yacAAjXFp.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060226026366734336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJdkp8qakAAtFW8.jpg",
+        "width": 1806
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060226026400280576",
+            "3_2060226026366734336"
+          ],
+          "media_source_tweet_id": [
+            "2060226036105883718",
+            "2060226036105883718"
+          ]
+        },
+        "author_id": "2058163131395002368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2060239649730335017",
+        "created_at": "2026-05-29T05:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T06:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060239649730335017"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 37,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "足控"
+            },
+            {
+              "end": 49,
+              "start": 46,
+              "tag": "腿控"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2060216799107719168",
+              "start": 3,
+              "username": "mollyzo9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZIT354D0Gg",
+              "end": 73,
+              "expanded_url": "https://x.com/mollyzo9/status/2060226036105883718/photo/1",
+              "media_key": "3_2060226026400280576",
+              "start": 50,
+              "url": "https://t.co/ZIT354D0Gg"
+            },
+            {
+              "display_url": "pic.x.com/ZIT354D0Gg",
+              "end": 73,
+              "expanded_url": "https://x.com/mollyzo9/status/2060226036105883718/photo/1",
+              "media_key": "3_2060226026366734336",
+              "start": 50,
+              "url": "https://t.co/ZIT354D0Gg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060239649730335017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060226036105883718",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mollyzo9: 這里是Molly💓✨\n之前的號沒了😭現在重開\n#爸爸活 #足控 #腿控 https://t.co/ZIT354D0Gg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060226026400280576",
+            "3_2060226026366734336"
+          ]
+        },
+        "author_id": "2060216799107719168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2060226036105883718",
+        "created_at": "2026-05-29T05:05:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T06:05:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060226036105883718"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 23,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "足控"
+            },
+            {
+              "end": 35,
+              "start": 32,
+              "tag": "腿控"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZIT354D0Gg",
+              "end": 59,
+              "expanded_url": "https://x.com/mollyzo9/status/2060226036105883718/photo/1",
+              "media_key": "3_2060226026400280576",
+              "start": 36,
+              "url": "https://t.co/ZIT354D0Gg"
+            },
+            {
+              "display_url": "pic.x.com/ZIT354D0Gg",
+              "end": 59,
+              "expanded_url": "https://x.com/mollyzo9/status/2060226036105883718/photo/1",
+              "media_key": "3_2060226026366734336",
+              "start": 36,
+              "url": "https://t.co/ZIT354D0Gg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060226036105883718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "這里是Molly💓✨\n之前的號沒了😭現在重開\n#爸爸活 #足控 #腿控 https://t.co/ZIT354D0Gg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-23T12:30:19.000Z",
+        "description": "愿望是在药效中死去໒  ྀིɞ̴̶̷ . ɞ̴̶̷𓍼ིྀა",
+        "id": "2058163131395002368",
+        "name": "🧊",
+        "pinned_tweet_id": "2058178433088393355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058163949829607424/EzutH29p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 78,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 93
+        },
+        "username": "murrtttt0ro",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-29T04:35:24.000Z",
+        "description": "坐標🇭🇰🚪52/88/520/1314",
+        "id": "2060216799107719168",
+        "name": "molly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060218807873048576/okI_CV6S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 4,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "username": "mollyzo9",
+        "verified": false
+      }
+    ]
+  }
+}

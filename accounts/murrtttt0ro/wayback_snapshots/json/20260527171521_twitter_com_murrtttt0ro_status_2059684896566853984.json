@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058163131395002368",
+    "conversation_id": "2059684896566853984",
+    "created_at": "2026-05-27T17:15:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T18:15:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059684896566853984"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 115,
+          "start": 111,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 121,
+          "start": 116,
+          "tag": "电子女友"
+        },
+        {
+          "end": 126,
+          "start": 122,
+          "tag": "地雷系"
+        },
+        {
+          "end": 131,
+          "start": 127,
+          "tag": "量产系"
+        },
+        {
+          "end": 135,
+          "start": 132,
+          "tag": "纯绿"
+        },
+        {
+          "end": 139,
+          "start": 136,
+          "tag": "线上"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1941851647195643905",
+          "start": 3,
+          "username": "Rays_lr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059684896566853984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059250866839081001",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rays_lr: 大家好呀我是小茹\n第一次开想赚点小钱钱改善生活和交学费呀 \n求老公老婆们过🚪(///▽///)我需要钱钱购买可爱的东西！这样你也可以看到可爱的我呀～\n和我聊天的话我都会很开心的，欢迎大家来和我玩\n#门槛妹 #电子女友 #地雷系 #量产系 #纯绿 #线上…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1168,
+        "media_key": "3_2059250848962924545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJPtvJvbUAEB001.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059250848828657664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJPtvJPakAA-X6S.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058163131395002368",
+        "conversation_id": "2059684896566853984",
+        "created_at": "2026-05-27T17:15:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T18:15:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059684896566853984"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 115,
+              "start": 111,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 121,
+              "start": 116,
+              "tag": "电子女友"
+            },
+            {
+              "end": 126,
+              "start": 122,
+              "tag": "地雷系"
+            },
+            {
+              "end": 131,
+              "start": 127,
+              "tag": "量产系"
+            },
+            {
+              "end": 135,
+              "start": 132,
+              "tag": "纯绿"
+            },
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "线上"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1941851647195643905",
+              "start": 3,
+              "username": "Rays_lr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059684896566853984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059250866839081001",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rays_lr: 大家好呀我是小茹\n第一次开想赚点小钱钱改善生活和交学费呀 \n求老公老婆们过🚪(///▽///)我需要钱钱购买可爱的东西！这样你也可以看到可爱的我呀～\n和我聊天的话我都会很开心的，欢迎大家来和我玩\n#门槛妹 #电子女友 #地雷系 #量产系 #纯绿 #线上…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059250848962924545",
+            "3_2059250848828657664"
+          ]
+        },
+        "author_id": "1941851647195643905",
+        "conversation_id": "2059250866839081001",
+        "created_at": "2026-05-26T12:30:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T13:30:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059250866839081001"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 102,
+              "start": 98,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 108,
+              "start": 103,
+              "tag": "电子女友"
+            },
+            {
+              "end": 113,
+              "start": 109,
+              "tag": "地雷系"
+            },
+            {
+              "end": 118,
+              "start": 114,
+              "tag": "量产系"
+            },
+            {
+              "end": 122,
+              "start": 119,
+              "tag": "纯绿"
+            },
+            {
+              "end": 126,
+              "start": 123,
+              "tag": "线上"
+            },
+            {
+              "end": 131,
+              "start": 127,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 136,
+              "start": 132,
+              "tag": "妈妈活"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LmgBoDrHNa",
+              "end": 160,
+              "expanded_url": "https://x.com/Rays_lr/status/2059250866839081001/photo/1",
+              "media_key": "3_2059250848962924545",
+              "start": 137,
+              "url": "https://t.co/LmgBoDrHNa"
+            },
+            {
+              "display_url": "pic.x.com/LmgBoDrHNa",
+              "end": 160,
+              "expanded_url": "https://x.com/Rays_lr/status/2059250866839081001/photo/1",
+              "media_key": "3_2059250848828657664",
+              "start": 137,
+              "url": "https://t.co/LmgBoDrHNa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059250866839081001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 601,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "大家好呀我是小茹\n第一次开想赚点小钱钱改善生活和交学费呀 \n求老公老婆们过🚪(///▽///)我需要钱钱购买可爱的东西！这样你也可以看到可爱的我呀～\n和我聊天的话我都会很开心的，欢迎大家来和我玩\n#门槛妹 #电子女友 #地雷系 #量产系 #纯绿 #线上 #爸爸活 #妈妈活 https://t.co/LmgBoDrHNa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-23T12:30:19.000Z",
+        "description": "愿望是在药效中死去໒  ྀིɞ̴̶̷ . ɞ̴̶̷𓍼ིྀა",
+        "id": "2058163131395002368",
+        "name": "🧊",
+        "pinned_tweet_id": "2058178433088393355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058163949829607424/EzutH29p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 64,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 43
+        },
+        "username": "murrtttt0ro",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-06T13:28:28.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@reyeschen0218",
+                "end": 23,
+                "expanded_url": "http://www.tiktok.com/@reyeschen0218",
+                "start": 0,
+                "url": "https://t.co/Tvm58yFMVm"
+              }
+            ]
+          }
+        },
+        "id": "1941851647195643905",
+        "name": "死而後已",
+        "pinned_tweet_id": "2059250866839081001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059677497466449920/kyTIzSAb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 14,
+          "like_count": 620,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 8
+        },
+        "url": "https://t.co/Tvm58yFMVm",
+        "username": "Rays_lr",
+        "verified": false
+      }
+    ]
+  }
+}

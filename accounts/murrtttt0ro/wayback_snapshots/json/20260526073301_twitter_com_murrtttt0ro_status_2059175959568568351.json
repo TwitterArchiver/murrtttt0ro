@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058163131395002368",
+    "conversation_id": "2059067355230335159",
+    "created_at": "2026-05-26T07:33:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T08:33:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059175959568568351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1555931163121750016",
+          "start": 0,
+          "username": "tcbnwst_ura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059175959568568351",
+    "in_reply_to_user_id": "1555931163121750016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059067355230335159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tcbnwst_ura 大好きだよ(ˊo̴̶̷̤  ̫ o̴̶̷̤ˋ)💕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058163131395002368",
+        "conversation_id": "2059067355230335159",
+        "created_at": "2026-05-26T07:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T08:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059175959568568351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1555931163121750016",
+              "start": 0,
+              "username": "tcbnwst_ura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059175959568568351",
+        "in_reply_to_user_id": "1555931163121750016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059067355230335159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tcbnwst_ura 大好きだよ(ˊo̴̶̷̤  ̫ o̴̶̷̤ˋ)💕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1555931163121750016",
+        "conversation_id": "2059067355230335159",
+        "created_at": "2026-05-26T00:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T01:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059067355230335159"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059067355230335159",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 16974,
+          "like_count": 1838,
+          "quote_count": 94,
+          "reply_count": 233,
+          "retweet_count": 295
+        },
+        "reply_settings": "everyone",
+        "text": "君が思うより君のこと考えてる"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-23T12:30:19.000Z",
+        "description": "愿望是在药效中死去໒  ྀིɞ̴̶̷ . ɞ̴̶̷𓍼ིྀა",
+        "id": "2058163131395002368",
+        "name": "🧊",
+        "pinned_tweet_id": "2058178433088393355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058163949829607424/EzutH29p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 41,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 15
+        },
+        "username": "murrtttt0ro",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-06T14:58:06.000Z",
+        "description": "某活動者の日常垢。",
+        "id": "1555931163121750016",
+        "name": "たちばな【すにすて】",
+        "pinned_tweet_id": "2038271340944449954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029821846716305408/c25g1Nzn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17739,
+          "following_count": 3,
+          "like_count": 371,
+          "listed_count": 253,
+          "media_count": 108,
+          "tweet_count": 3456
+        },
+        "username": "tcbnwst_ura",
+        "verified": false
+      }
+    ]
+  }
+}

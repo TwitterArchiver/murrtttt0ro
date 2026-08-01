@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059690862330953728"
+      ]
+    },
+    "author_id": "2058163131395002368",
+    "conversation_id": "2059690873999474977",
+    "created_at": "2026-05-27T17:39:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T18:39:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059690873999474977"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 4,
+          "start": 0,
+          "tag": "橘FA"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/J8EcFBBRzE",
+          "end": 28,
+          "expanded_url": "https://x.com/murrtttt0ro/status/2059690873999474977/photo/1",
+          "media_key": "3_2059690862330953728",
+          "start": 5,
+          "url": "https://t.co/J8EcFBBRzE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059690873999474977",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#橘FA https://t.co/J8EcFBBRzE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2059690862330953728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJV97TRawAAIZ47.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059690862330953728"
+          ]
+        },
+        "author_id": "2058163131395002368",
+        "conversation_id": "2059690873999474977",
+        "created_at": "2026-05-27T17:39:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T18:39:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059690873999474977"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "橘FA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J8EcFBBRzE",
+              "end": 28,
+              "expanded_url": "https://x.com/murrtttt0ro/status/2059690873999474977/photo/1",
+              "media_key": "3_2059690862330953728",
+              "start": 5,
+              "url": "https://t.co/J8EcFBBRzE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059690873999474977",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#橘FA https://t.co/J8EcFBBRzE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-23T12:30:19.000Z",
+        "description": "愿望是在药效中死去໒  ྀིɞ̴̶̷ . ɞ̴̶̷𓍼ིྀა",
+        "id": "2058163131395002368",
+        "name": "🧊",
+        "pinned_tweet_id": "2058178433088393355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058163949829607424/EzutH29p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 66,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 49
+        },
+        "username": "murrtttt0ro",
+        "verified": false
+      }
+    ]
+  }
+}

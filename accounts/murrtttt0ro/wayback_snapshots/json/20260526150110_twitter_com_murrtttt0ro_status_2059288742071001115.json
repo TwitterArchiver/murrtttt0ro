@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058163131395002368",
+    "conversation_id": "2059288742071001115",
+    "created_at": "2026-05-26T15:01:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T16:01:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059288742071001115"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 139,
+          "start": 135,
+          "tag": "门槛妹"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2002777083861491712",
+          "start": 3,
+          "username": "XinXiao15753"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059288742071001115",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051943782434648348",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XinXiao15753: @这里是小欣🌟居无定所喵*\n转世重生 前世万fo\n支持各种举牌验证！无条件的！\n各位金主爸爸们多多关照呀*\n我很可爱也很缺钱\n喜欢我请给我打钱吧\n出原味出图包线上约调陪玩\n欢迎可爱小女孩们互转互fo一起玩耍～转贴 评论 抽不等红包的！＃门槛妹…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2059288742071001115].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2059288742071001115",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2059288742071001115"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2051943758497783812",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHn3-ghXIAQK16W.jpg",
+        "width": 510
+      },
+      {
+        "height": 1151,
+        "media_key": "3_2051943758661287939",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHn3-hIWAAMu7gK.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2051943758493593602",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHn3-ggXMAIP7a1.jpg",
+        "width": 950
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2051943758489321478",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHn3-gfWAAYPXXB.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051943758497783812",
+            "3_2051943758661287939",
+            "3_2051943758493593602",
+            "3_2051943758489321478"
+          ]
+        },
+        "author_id": "2002777083861491712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2051943782434648348",
+        "created_at": "2026-05-06T08:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T09:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051943782434648348"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 121,
+              "start": 117,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 127,
+              "start": 122,
+              "tag": "线下dd"
+            },
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "原味"
+            },
+            {
+              "end": 135,
+              "start": 132,
+              "tag": "反差"
+            },
+            {
+              "end": 144,
+              "start": 136,
+              "tag": "cosplay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1lrLVC3K4V",
+              "end": 168,
+              "expanded_url": "https://x.com/XInXiao15752/status/2051943782434648348/photo/1",
+              "media_key": "3_2051943758497783812",
+              "start": 145,
+              "url": "https://t.co/1lrLVC3K4V"
+            },
+            {
+              "display_url": "pic.x.com/1lrLVC3K4V",
+              "end": 168,
+              "expanded_url": "https://x.com/XInXiao15752/status/2051943782434648348/photo/1",
+              "media_key": "3_2051943758661287939",
+              "start": 145,
+              "url": "https://t.co/1lrLVC3K4V"
+            },
+            {
+              "display_url": "pic.x.com/1lrLVC3K4V",
+              "end": 168,
+              "expanded_url": "https://x.com/XInXiao15752/status/2051943782434648348/photo/1",
+              "media_key": "3_2051943758493593602",
+              "start": 145,
+              "url": "https://t.co/1lrLVC3K4V"
+            },
+            {
+              "display_url": "pic.x.com/1lrLVC3K4V",
+              "end": 168,
+              "expanded_url": "https://x.com/XInXiao15752/status/2051943782434648348/photo/1",
+              "media_key": "3_2051943758489321478",
+              "start": 145,
+              "url": "https://t.co/1lrLVC3K4V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051943782434648348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 13128,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "@这里是小欣🌟居无定所喵*\n转世重生 前世万fo\n支持各种举牌验证！无条件的！\n各位金主爸爸们多多关照呀*\n我很可爱也很缺钱\n喜欢我请给我打钱吧\n出原味出图包线上约调陪玩\n欢迎可爱小女孩们互转互fo一起玩耍～转贴 评论 抽不等红包的！＃门槛妹 ＃线下dd #原味 #反差 #cosplay https://t.co/1lrLVC3K4V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-23T12:30:19.000Z",
+        "description": "愿望是在药效中死去໒  ྀིɞ̴̶̷ . ɞ̴̶̷𓍼ིྀა",
+        "id": "2058163131395002368",
+        "name": "🧊",
+        "pinned_tweet_id": "2058178433088393355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058163949829607424/EzutH29p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 48,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 33
+        },
+        "username": "murrtttt0ro",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-21T16:24:18.000Z",
+        "description": "@这里是小欣 ！喜欢我请过门叭ww 支持口令和赞赏码٩(๑^o^๑)۶ 请多多爱我吧 我超会提供情绪价值哒* 🚪168/288/520/1314/2888/5200",
+        "id": "2002777083861491712",
+        "location": "距离你5.2km",
+        "name": "小欣（重生版）",
+        "pinned_tweet_id": "2051943782434648348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002794200090423296/TWJdf6F6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 814,
+          "following_count": 44,
+          "like_count": 32,
+          "listed_count": 3,
+          "media_count": 27,
+          "tweet_count": 340
+        },
+        "username": "XinXiao15753",
+        "verified": true
+      }
+    ]
+  }
+}

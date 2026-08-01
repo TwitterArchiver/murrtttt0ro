@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058163131395002368",
+    "conversation_id": "2058463375873691651",
+    "created_at": "2026-05-24T08:21:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T09:21:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058463375873691651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2051536884799803392",
+          "start": 3,
+          "username": "Dyzilidz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058463375873691651",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056957023091392666",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dyzilidz: 出售普瑞巴林*每盒20💊\n录硝西* 每粒9💊\n思n思*每粒85💊\n▶️全部价格以频道或私信为准▶️\n❕后续会推出精一精二单独售卖板块❕\n⚠️当天购买 当天发货（如遇困难最晚一小时内发货）⚠️\n🧧转发此条消息 经会随机抽奖一位幸运儿🧧\n奖品为 ❤️普瑞…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2056957002996441088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIvHfvna4AA1t4C.jpg",
+        "width": 957
+      },
+      {
+        "height": 405,
+        "media_key": "3_2056957002996391936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIvHfvnaIAAzW41.jpg",
+        "width": 926
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058163131395002368",
+        "conversation_id": "2058463375873691651",
+        "created_at": "2026-05-24T08:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T09:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058463375873691651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2051536884799803392",
+              "start": 3,
+              "username": "Dyzilidz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058463375873691651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056957023091392666",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dyzilidz: 出售普瑞巴林*每盒20💊\n录硝西* 每粒9💊\n思n思*每粒85💊\n▶️全部价格以频道或私信为准▶️\n❕后续会推出精一精二单独售卖板块❕\n⚠️当天购买 当天发货（如遇困难最晚一小时内发货）⚠️\n🧧转发此条消息 经会随机抽奖一位幸运儿🧧\n奖品为 ❤️普瑞…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056957002996441088",
+            "3_2056957002996391936"
+          ]
+        },
+        "author_id": "2051536884799803392",
+        "conversation_id": "2056957023091392666",
+        "created_at": "2026-05-20T04:35:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T05:35:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056957023091392666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UzCLjdeN20",
+              "end": 182,
+              "expanded_url": "https://x.com/Dyzilidz/status/2056957023091392666/photo/1",
+              "media_key": "3_2056957002996441088",
+              "start": 159,
+              "url": "https://t.co/UzCLjdeN20"
+            },
+            {
+              "display_url": "pic.x.com/UzCLjdeN20",
+              "end": 182,
+              "expanded_url": "https://x.com/Dyzilidz/status/2056957023091392666/photo/1",
+              "media_key": "3_2056957002996391936",
+              "start": 159,
+              "url": "https://t.co/UzCLjdeN20"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056957023091392666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1478,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "出售普瑞巴林*每盒20💊\n录硝西* 每粒9💊\n思n思*每粒85💊\n▶️全部价格以频道或私信为准▶️\n❕后续会推出精一精二单独售卖板块❕\n⚠️当天购买 当天发货（如遇困难最晚一小时内发货）⚠️\n🧧转发此条消息 经会随机抽奖一位幸运儿🧧\n奖品为 ❤️普瑞巴林*10盒❤️ 包邮免费发出\n转发此贴参与抽奖 转发此贴参与抽奖 https://t.co/UzCLjdeN20"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-23T12:30:19.000Z",
+        "description": "愿望是在药效中死去໒  ྀིɞ̴̶̷ . ɞ̴̶̷𓍼ིྀა",
+        "id": "2058163131395002368",
+        "name": "🧊",
+        "pinned_tweet_id": "2058178433088393355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058163949829607424/EzutH29p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 35,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 15
+        },
+        "username": "murrtttt0ro",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-05T05:38:59.000Z",
+        "description": "购买私信哦宝宝们我很温柔的 08/女/od/割手\n没有TG的也不要着急呀宝宝们 私信我就可以啦\n⬇️是tg频道哦\nTg购买频道 https://t.co/EQNgit63OK\n双相情感障碍 抑郁症 我需要钱买抗抑郁药吃",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+a_Fi9g9IfoQzZ…",
+                "end": 87,
+                "expanded_url": "https://t.me/+a_Fi9g9IfoQzZWI1",
+                "start": 64,
+                "url": "https://t.co/EQNgit63OK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+a_Fi9g9IfoQzZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+a_Fi9g9IfoQzZWI1",
+                "start": 0,
+                "url": "https://t.co/EQNgit63OK"
+              }
+            ]
+          }
+        },
+        "id": "2051536884799803392",
+        "location": "温柔の日",
+        "name": "Misaaa",
+        "pinned_tweet_id": "2056957023091392666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054315647761551360/Rh5Coj7l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 62,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 29
+        },
+        "url": "https://t.co/EQNgit63OK",
+        "username": "Dyzilidz",
+        "verified": false
+      }
+    ]
+  }
+}

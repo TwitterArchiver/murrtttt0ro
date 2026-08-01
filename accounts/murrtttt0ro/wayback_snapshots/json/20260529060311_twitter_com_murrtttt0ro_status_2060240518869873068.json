@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060240510678446081"
+      ]
+    },
+    "author_id": "2058163131395002368",
+    "conversation_id": "2060240518869873068",
+    "created_at": "2026-05-29T06:03:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T07:03:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060240518869873068"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9UfRUDA5J2",
+          "end": 43,
+          "expanded_url": "https://x.com/murrtttt0ro/status/2060240518869873068/photo/1",
+          "media_key": "3_2060240510678446081",
+          "start": 20,
+          "url": "https://t.co/9UfRUDA5J2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060240518869873068",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不要这样好吗。。。我已经被骗了很多钱了 https://t.co/9UfRUDA5J2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_2060240510678446081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJdx1C7bsAEPWWe.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060240510678446081"
+          ]
+        },
+        "author_id": "2058163131395002368",
+        "conversation_id": "2060240518869873068",
+        "created_at": "2026-05-29T06:03:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T07:03:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060240518869873068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9UfRUDA5J2",
+              "end": 43,
+              "expanded_url": "https://x.com/murrtttt0ro/status/2060240518869873068/photo/1",
+              "media_key": "3_2060240510678446081",
+              "start": 20,
+              "url": "https://t.co/9UfRUDA5J2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060240518869873068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不要这样好吗。。。我已经被骗了很多钱了 https://t.co/9UfRUDA5J2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-23T12:30:19.000Z",
+        "description": "愿望是在药效中死去໒  ྀིɞ̴̶̷ . ɞ̴̶̷𓍼ིྀა",
+        "id": "2058163131395002368",
+        "name": "🧊",
+        "pinned_tweet_id": "2058178433088393355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058163949829607424/EzutH29p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 78,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 94
+        },
+        "username": "murrtttt0ro",
+        "verified": false
+      }
+    ]
+  }
+}

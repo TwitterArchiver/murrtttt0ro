@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058163131395002368",
+    "conversation_id": "2059197205861613917",
+    "created_at": "2026-05-26T08:57:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T09:57:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059197205861613917"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aziii_1213/sta…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/aziii_1213/status/2055335203514859762",
+          "start": 6,
+          "url": "https://t.co/q0pwYMcMGW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059197205861613917",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055335203514859762",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所有人感受 https://t.co/q0pwYMcMGW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1866,
+        "media_key": "3_2055334890879754240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIYEMZFaoAAyPrC.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2055334890854649856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIYEMY_bkAAD2Em.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2055334890854641664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIYEMY_bcAAUAo4.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058163131395002368",
+        "conversation_id": "2059197205861613917",
+        "created_at": "2026-05-26T08:57:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T09:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059197205861613917"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aziii_1213/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/aziii_1213/status/2055335203514859762",
+              "start": 6,
+              "url": "https://t.co/q0pwYMcMGW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059197205861613917",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055335203514859762",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所有人感受 https://t.co/q0pwYMcMGW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055334890879754240",
+            "3_2055334890854649856",
+            "3_2055334890854641664"
+          ]
+        },
+        "author_id": "1953840246413832193",
+        "conversation_id": "2055335203514859762",
+        "created_at": "2026-05-15T17:11:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T18:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055335203514859762"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "门槛"
+            },
+            {
+              "end": 31,
+              "start": 27,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 37,
+              "start": 32,
+              "tag": "电子女友"
+            },
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "线下"
+            },
+            {
+              "end": 46,
+              "start": 42,
+              "tag": "爸爸活"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1XJFQGVcH1",
+              "end": 70,
+              "expanded_url": "https://x.com/aziii_1213/status/2055335203514859762/photo/1",
+              "media_key": "3_2055334890879754240",
+              "start": 47,
+              "url": "https://t.co/1XJFQGVcH1"
+            },
+            {
+              "display_url": "pic.x.com/1XJFQGVcH1",
+              "end": 70,
+              "expanded_url": "https://x.com/aziii_1213/status/2055335203514859762/photo/1",
+              "media_key": "3_2055334890854649856",
+              "start": 47,
+              "url": "https://t.co/1XJFQGVcH1"
+            },
+            {
+              "display_url": "pic.x.com/1XJFQGVcH1",
+              "end": 70,
+              "expanded_url": "https://x.com/aziii_1213/status/2055335203514859762/photo/1",
+              "media_key": "3_2055334890854641664",
+              "start": 47,
+              "url": "https://t.co/1XJFQGVcH1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055335203514859762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 288,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢我的入我🚪好吗TT\n欢迎小美女和我互fo\n#门槛 #门槛妹 #电子女友 #线下 #爸爸活 https://t.co/1XJFQGVcH1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-23T12:30:19.000Z",
+        "description": "愿望是在药效中死去໒  ྀིɞ̴̶̷ . ɞ̴̶̷𓍼ིྀა",
+        "id": "2058163131395002368",
+        "name": "🧊",
+        "pinned_tweet_id": "2058178433088393355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058163949829607424/EzutH29p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 42,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 20
+        },
+        "username": "murrtttt0ro",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-08T15:26:43.000Z",
+        "description": "咬咬/08/休学od自伤/欢迎互fo",
+        "id": "1953840246413832193",
+        "name": "天使咬",
+        "pinned_tweet_id": "2055335203514859762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059191678272258048/fi6xroy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 22,
+          "like_count": 222,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 36
+        },
+        "username": "aziii_1213",
+        "verified": false
+      }
+    ]
+  }
+}

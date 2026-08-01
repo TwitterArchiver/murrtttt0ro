@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036538722829869057",
+        "3_2036538722884395010",
+        "3_2036538722808918016",
+        "3_2036538722817372160"
+      ],
+      "media_source_tweet_id": [
+        "2036538748217991416",
+        "2036538748217991416",
+        "2036538748217991416",
+        "2036538748217991416"
+      ]
+    },
+    "author_id": "2058163131395002368",
+    "conversation_id": "2060320519531200994",
+    "created_at": "2026-05-29T11:21:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T12:21:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060320519531200994"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 85,
+          "start": 80,
+          "tag": "电子女友"
+        },
+        {
+          "end": 91,
+          "start": 87,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 95,
+          "start": 92,
+          "tag": "非绿"
+        },
+        {
+          "end": 100,
+          "start": 96,
+          "tag": "抑郁症"
+        },
+        {
+          "end": 104,
+          "start": 101,
+          "tag": "线下"
+        },
+        {
+          "end": 108,
+          "start": 105,
+          "tag": "陪聊"
+        },
+        {
+          "end": 113,
+          "start": 109,
+          "tag": "门槛哥"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2024306593492504576",
+          "start": 3,
+          "username": "tngyun1964411"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UU8zoAb5GS",
+          "end": 137,
+          "expanded_url": "https://x.com/tngyun1964411/status/2036538748217991416/photo/1",
+          "media_key": "3_2036538722829869057",
+          "start": 114,
+          "url": "https://t.co/UU8zoAb5GS"
+        },
+        {
+          "display_url": "pic.x.com/UU8zoAb5GS",
+          "end": 137,
+          "expanded_url": "https://x.com/tngyun1964411/status/2036538748217991416/photo/1",
+          "media_key": "3_2036538722884395010",
+          "start": 114,
+          "url": "https://t.co/UU8zoAb5GS"
+        },
+        {
+          "display_url": "pic.x.com/UU8zoAb5GS",
+          "end": 137,
+          "expanded_url": "https://x.com/tngyun1964411/status/2036538748217991416/photo/1",
+          "media_key": "3_2036538722808918016",
+          "start": 114,
+          "url": "https://t.co/UU8zoAb5GS"
+        },
+        {
+          "display_url": "pic.x.com/UU8zoAb5GS",
+          "end": 137,
+          "expanded_url": "https://x.com/tngyun1964411/status/2036538748217991416/photo/1",
+          "media_key": "3_2036538722817372160",
+          "start": 114,
+          "url": "https://t.co/UU8zoAb5GS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060320519531200994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036538748217991416",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tngyun1964411: 一个汤圆的置顶🔝\n坐标广东 家里人不给我生活费很需要钱 我有药瘾 许愿一个爱我的🚪哥 验证20 什么都接价格详细在p4\n #电子女友  #门槛妹 #非绿 #抑郁症 #线下 #陪聊 #门槛哥 https://t.co/UU8zoAb5GS"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2060320519531200994].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2060320519531200994",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2060320519531200994"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1926,
+        "media_key": "3_2036538722829869057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEM9LamaIAEil1-.jpg",
+        "width": 1444
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2036538722884395010",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEM9LazaIAI8Wnu.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2036538722808918016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEM9LahacAAkuJ0.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2036538722817372160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEM9LajbcAAXQWx.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036538722829869057",
+            "3_2036538722884395010",
+            "3_2036538722808918016",
+            "3_2036538722817372160"
+          ]
+        },
+        "author_id": "2024306593492504576",
+        "conversation_id": "2036538748217991416",
+        "created_at": "2026-03-24T20:20:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T21:20:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036538748217991416"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 66,
+              "start": 61,
+              "tag": "电子女友"
+            },
+            {
+              "end": 72,
+              "start": 68,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 76,
+              "start": 73,
+              "tag": "非绿"
+            },
+            {
+              "end": 81,
+              "start": 77,
+              "tag": "抑郁症"
+            },
+            {
+              "end": 85,
+              "start": 82,
+              "tag": "线下"
+            },
+            {
+              "end": 89,
+              "start": 86,
+              "tag": "陪聊"
+            },
+            {
+              "end": 94,
+              "start": 90,
+              "tag": "门槛哥"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UU8zoAb5GS",
+              "end": 118,
+              "expanded_url": "https://x.com/tngyun1964411/status/2036538748217991416/photo/1",
+              "media_key": "3_2036538722829869057",
+              "start": 95,
+              "url": "https://t.co/UU8zoAb5GS"
+            },
+            {
+              "display_url": "pic.x.com/UU8zoAb5GS",
+              "end": 118,
+              "expanded_url": "https://x.com/tngyun1964411/status/2036538748217991416/photo/1",
+              "media_key": "3_2036538722884395010",
+              "start": 95,
+              "url": "https://t.co/UU8zoAb5GS"
+            },
+            {
+              "display_url": "pic.x.com/UU8zoAb5GS",
+              "end": 118,
+              "expanded_url": "https://x.com/tngyun1964411/status/2036538748217991416/photo/1",
+              "media_key": "3_2036538722808918016",
+              "start": 95,
+              "url": "https://t.co/UU8zoAb5GS"
+            },
+            {
+              "display_url": "pic.x.com/UU8zoAb5GS",
+              "end": 118,
+              "expanded_url": "https://x.com/tngyun1964411/status/2036538748217991416/photo/1",
+              "media_key": "3_2036538722817372160",
+              "start": 95,
+              "url": "https://t.co/UU8zoAb5GS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036538748217991416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 36146,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "一个汤圆的置顶🔝\n坐标广东 家里人不给我生活费很需要钱 我有药瘾 许愿一个爱我的🚪哥 验证20 什么都接价格详细在p4\n #电子女友  #门槛妹 #非绿 #抑郁症 #线下 #陪聊 #门槛哥 https://t.co/UU8zoAb5GS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-23T12:30:19.000Z",
+        "description": "愿望是在药效中死去໒  ྀིɞ̴̶̷ . ɞ̴̶̷𓍼ིྀა",
+        "id": "2058163131395002368",
+        "name": "🧊",
+        "pinned_tweet_id": "2058178433088393355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058163949829607424/EzutH29p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 78,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 99
+        },
+        "username": "murrtttt0ro",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-19T02:14:51.000Z",
+        "description": "🚪88 188 288 520 1314…",
+        "id": "2024306593492504576",
+        "name": "汤圆",
+        "pinned_tweet_id": "2036538748217991416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036532388650688516/n5CzWruw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 46,
+          "like_count": 946,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 54
+        },
+        "username": "tngyun1964411",
+        "verified": false
+      }
+    ]
+  }
+}

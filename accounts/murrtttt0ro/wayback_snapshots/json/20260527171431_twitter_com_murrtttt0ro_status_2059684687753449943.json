@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058163131395002368",
+    "conversation_id": "2059684687753449943",
+    "created_at": "2026-05-27T17:14:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T18:14:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059684687753449943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2019631771579756544",
+          "start": 3,
+          "username": "yingyingsu030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059684687753449943",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021561759216407025",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yingyingsu030: 置顶🔝\n我是罂罂\n我重生了！09辍学双相小女孩\n163/51kg/可接爸爸活 详细过门咨询 问他\n小女孩可以找我扩列互关之前会查成分喵\n88纯聊天 朋友圈\n288线下咨询\n520电子女友让你体验恋爱的感觉\n1314电子小狗\n5200夜两次喵…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2059684687753449943].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2059684687753449943",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2059684687753449943"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1648,
+        "media_key": "3_2021561729436827648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA4HrqabQAAEfR8.jpg",
+        "width": 1290
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2021561729432625152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA4HrqZbIAA_7Ln.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2021561729436839936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA4HrqabcAAqurC.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021561729436827648",
+            "3_2021561729432625152",
+            "3_2021561729436839936"
+          ]
+        },
+        "author_id": "2019631771579756544",
+        "conversation_id": "2021561759216407025",
+        "created_at": "2026-02-11T12:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T13:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021561759216407025"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qxcbxZarcu",
+              "end": 144,
+              "expanded_url": "https://x.com/yingyingsu030/status/2021561759216407025/photo/1",
+              "media_key": "3_2021561729436827648",
+              "start": 121,
+              "url": "https://t.co/qxcbxZarcu"
+            },
+            {
+              "display_url": "pic.x.com/qxcbxZarcu",
+              "end": 144,
+              "expanded_url": "https://x.com/yingyingsu030/status/2021561759216407025/photo/1",
+              "media_key": "3_2021561729432625152",
+              "start": 121,
+              "url": "https://t.co/qxcbxZarcu"
+            },
+            {
+              "display_url": "pic.x.com/qxcbxZarcu",
+              "end": 144,
+              "expanded_url": "https://x.com/yingyingsu030/status/2021561759216407025/photo/1",
+              "media_key": "3_2021561729436839936",
+              "start": 121,
+              "url": "https://t.co/qxcbxZarcu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021561759216407025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 27064,
+          "like_count": 188,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "置顶🔝\n我是罂罂\n我重生了！09辍学双相小女孩\n163/51kg/可接爸爸活 详细过门咨询 问他\n小女孩可以找我扩列互关之前会查成分喵\n88纯聊天 朋友圈\n288线下咨询\n520电子女友让你体验恋爱的感觉\n1314电子小狗\n5200夜两次喵 https://t.co/qxcbxZarcu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-23T12:30:19.000Z",
+        "description": "愿望是在药效中死去໒  ྀིɞ̴̶̷ . ɞ̴̶̷𓍼ིྀა",
+        "id": "2058163131395002368",
+        "name": "🧊",
+        "pinned_tweet_id": "2058178433088393355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058163949829607424/EzutH29p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 61,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 41
+        },
+        "username": "murrtttt0ro",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-06T04:38:46.000Z",
+        "description": "前世@wooocaooniimabi。     可验证",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "wooocaooniimabi"
+              }
+            ]
+          }
+        },
+        "id": "2019631771579756544",
+        "location": "🚪166 288",
+        "name": "罂粟",
+        "pinned_tweet_id": "2021561759216407025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021563235787517953/Gelyzq4v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795,
+          "following_count": 41,
+          "like_count": 37,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 106
+        },
+        "username": "yingyingsu030",
+        "verified": false
+      }
+    ]
+  }
+}

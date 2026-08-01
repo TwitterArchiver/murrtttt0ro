@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060203098514366464",
+        "3_2060203098526912512"
+      ],
+      "media_source_tweet_id": [
+        "2060203107414667701",
+        "2060203107414667701"
+      ]
+    },
+    "author_id": "2058163131395002368",
+    "conversation_id": "2060218692504629274",
+    "created_at": "2026-05-29T04:36:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T05:36:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060218692504629274"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 98,
+          "start": 95,
+          "tag": "门槛"
+        },
+        {
+          "end": 102,
+          "start": 99,
+          "tag": "女大"
+        },
+        {
+          "end": 106,
+          "start": 103,
+          "tag": "线下"
+        },
+        {
+          "end": 111,
+          "start": 107,
+          "tag": "江浙沪"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2059875189555707904",
+          "start": 3,
+          "username": "309jui"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zr5wAribDE",
+          "end": 135,
+          "expanded_url": "https://x.com/309jui/status/2060203107414667701/photo/1",
+          "media_key": "3_2060203098514366464",
+          "start": 112,
+          "url": "https://t.co/zr5wAribDE"
+        },
+        {
+          "display_url": "pic.x.com/zr5wAribDE",
+          "end": 135,
+          "expanded_url": "https://x.com/309jui/status/2060203107414667701/photo/1",
+          "media_key": "3_2060203098526912512",
+          "start": 112,
+          "url": "https://t.co/zr5wAribDE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060218692504629274",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060203107414667701",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @309jui: 🔝1.0\n我是青青 大一在读 164/53kg\n坐标江浙沪 坐标/视频验证10r\n58/158/258/520\n线下面付（路费代付哪里都去\n求心软门哥降临我身边🤲🏻\n#门槛 #女大 #线下 #江浙沪 https://t.co/zr5wAribDE"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2060218692504629274].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2060218692504629274",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2060218692504629274"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060203098514366464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJdPzXwboAA0AyE.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1320,
+        "media_key": "3_2060203098526912512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJdPzXzbEAA1yir.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060203098514366464",
+            "3_2060203098526912512"
+          ]
+        },
+        "author_id": "2059875189555707904",
+        "conversation_id": "2060203107414667701",
+        "created_at": "2026-05-29T03:34:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T04:34:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060203107414667701"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 86,
+              "start": 83,
+              "tag": "门槛"
+            },
+            {
+              "end": 90,
+              "start": 87,
+              "tag": "女大"
+            },
+            {
+              "end": 94,
+              "start": 91,
+              "tag": "线下"
+            },
+            {
+              "end": 99,
+              "start": 95,
+              "tag": "江浙沪"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zr5wAribDE",
+              "end": 123,
+              "expanded_url": "https://x.com/309jui/status/2060203107414667701/photo/1",
+              "media_key": "3_2060203098514366464",
+              "start": 100,
+              "url": "https://t.co/zr5wAribDE"
+            },
+            {
+              "display_url": "pic.x.com/zr5wAribDE",
+              "end": 123,
+              "expanded_url": "https://x.com/309jui/status/2060203107414667701/photo/1",
+              "media_key": "3_2060203098526912512",
+              "start": 100,
+              "url": "https://t.co/zr5wAribDE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060203107414667701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "🔝1.0\n我是青青 大一在读 164/53kg\n坐标江浙沪 坐标/视频验证10r\n58/158/258/520\n线下面付（路费代付哪里都去\n求心软门哥降临我身边🤲🏻\n#门槛 #女大 #线下 #江浙沪 https://t.co/zr5wAribDE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-23T12:30:19.000Z",
+        "description": "愿望是在药效中死去໒  ྀིɞ̴̶̷ . ɞ̴̶̷𓍼ིྀა",
+        "id": "2058163131395002368",
+        "name": "🧊",
+        "pinned_tweet_id": "2058178433088393355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058163949829607424/EzutH29p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 77,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 93
+        },
+        "username": "murrtttt0ro",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-28T05:56:40.000Z",
+        "description": "🚪58 江浙沪 请看完置顶再私信",
+        "id": "2059875189555707904",
+        "name": "青青3.0",
+        "pinned_tweet_id": "2060203107414667701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059877303161933825/mNY_Cj7l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 12,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 16
+        },
+        "username": "309jui",
+        "verified": false
+      }
+    ]
+  }
+}

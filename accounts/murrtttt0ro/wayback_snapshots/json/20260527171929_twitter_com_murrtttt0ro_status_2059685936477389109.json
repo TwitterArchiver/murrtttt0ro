@@ -1,0 +1,129 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058163131395002368",
+    "conversation_id": "2059685936477389109",
+    "created_at": "2026-05-27T17:19:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T18:19:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059685936477389109"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 12,
+          "start": 8,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 17,
+          "start": 13,
+          "tag": "妈妈活"
+        },
+        {
+          "end": 22,
+          "start": 18,
+          "tag": "门槛妹"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059685936477389109",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有没有人入我门 #爸爸活 #妈妈活 #门槛妹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058163131395002368",
+        "conversation_id": "2059685936477389109",
+        "created_at": "2026-05-27T17:19:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T18:19:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059685936477389109"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 8,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 17,
+              "start": 13,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "门槛妹"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059685936477389109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人入我门 #爸爸活 #妈妈活 #门槛妹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-23T12:30:19.000Z",
+        "description": "愿望是在药效中死去໒  ྀིɞ̴̶̷ . ɞ̴̶̷𓍼ིྀა",
+        "id": "2058163131395002368",
+        "name": "🧊",
+        "pinned_tweet_id": "2058178433088393355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058163949829607424/EzutH29p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 64,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 46
+        },
+        "username": "murrtttt0ro",
+        "verified": false
+      }
+    ]
+  }
+}

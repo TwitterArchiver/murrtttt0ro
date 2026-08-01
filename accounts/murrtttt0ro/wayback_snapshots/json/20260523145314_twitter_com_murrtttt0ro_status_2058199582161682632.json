@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058163131395002368",
+    "conversation_id": "2058199582161682632",
+    "created_at": "2026-05-23T14:53:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T15:53:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058199582161682632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2013517011729465344",
+          "start": 3,
+          "username": "RfbxaUauj41685"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058199582161682632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058123795874054245",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RfbxaUauj41685: 你长得好丑到底是什么梗，怎么一直有人对我说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058163131395002368",
+        "conversation_id": "2058199582161682632",
+        "created_at": "2026-05-23T14:53:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T15:53:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058199582161682632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2013517011729465344",
+              "start": 3,
+              "username": "RfbxaUauj41685"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058199582161682632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058123795874054245",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RfbxaUauj41685: 你长得好丑到底是什么梗，怎么一直有人对我说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013517011729465344",
+        "conversation_id": "2058123795874054245",
+        "created_at": "2026-05-23T09:52:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T10:52:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058123795874054245"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058123795874054245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5066,
+          "like_count": 133,
+          "quote_count": 2,
+          "reply_count": 24,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "你长得好丑到底是什么梗，怎么一直有人对我说"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-23T12:30:19.000Z",
+        "description": "愿望是在药效中死去໒  ྀིɞ̴̶̷ . ɞ̴̶̷𓍼ིྀა",
+        "id": "2058163131395002368",
+        "name": "🧊",
+        "pinned_tweet_id": "2058178433088393355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058163949829607424/EzutH29p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 19,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 8
+        },
+        "username": "murrtttt0ro",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-20T07:40:54.000Z",
+        "description": "男/mtx 前世：@rednightmare962",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "rednightmare962"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+gjb2OqUsan1jO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+gjb2OqUsan1jOGNl",
+                "start": 0,
+                "url": "https://t.co/nif78SR5wo"
+              }
+            ]
+          }
+        },
+        "id": "2013517011729465344",
+        "name": "洛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036639177761333249/V3qDiwX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 84,
+          "like_count": 748,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 440
+        },
+        "url": "https://t.co/nif78SR5wo",
+        "username": "RfbxaUauj41685",
+        "verified": false
+      }
+    ]
+  }
+}

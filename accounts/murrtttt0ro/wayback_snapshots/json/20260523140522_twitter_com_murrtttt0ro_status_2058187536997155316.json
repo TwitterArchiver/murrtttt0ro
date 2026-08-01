@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058163131395002368",
+    "conversation_id": "2058187536997155316",
+    "created_at": "2026-05-23T14:05:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T15:05:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058187536997155316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1969076990952275968",
+          "start": 3,
+          "username": "Iris1208dzqIris"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058187536997155316",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057990908419969161",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Iris1208dzqIris: 我不禁注意到你对待我的行为有一个非常微小的变化。你是不是非常恨我，想让我死，对吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058163131395002368",
+        "conversation_id": "2058187536997155316",
+        "created_at": "2026-05-23T14:05:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T15:05:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058187536997155316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1969076990952275968",
+              "start": 3,
+              "username": "Iris1208dzqIris"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058187536997155316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057990908419969161",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Iris1208dzqIris: 我不禁注意到你对待我的行为有一个非常微小的变化。你是不是非常恨我，想让我死，对吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969076990952275968",
+        "conversation_id": "2057990908419969161",
+        "created_at": "2026-05-23T01:04:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T02:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057990908419969161"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057990908419969161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2604,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我不禁注意到你对待我的行为有一个非常微小的变化。你是不是非常恨我，想让我死，对吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-23T12:30:19.000Z",
+        "description": "愿望是在药效中死去໒  ྀིɞ̴̶̷ . ɞ̴̶̷𓍼ིྀა",
+        "id": "2058163131395002368",
+        "name": "🧊",
+        "pinned_tweet_id": "2058178433088393355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058163949829607424/EzutH29p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 6,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 7
+        },
+        "username": "murrtttt0ro",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-19T16:32:07.000Z",
+        "description": "08｜人生忧患识字始｜水仙：@Sovereign_Iriss\n匿名提问↘️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "Sovereign_Iriss"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iris88892",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iris88892",
+                "start": 0,
+                "url": "https://t.co/75O3RONQKl"
+              }
+            ]
+          }
+        },
+        "id": "1969076990952275968",
+        "location": "地狱",
+        "name": "Iris",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050962867671949314/-sAwRpkg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4692,
+          "following_count": 23,
+          "like_count": 1385,
+          "listed_count": 4,
+          "media_count": 104,
+          "tweet_count": 1068
+        },
+        "url": "https://t.co/75O3RONQKl",
+        "username": "Iris1208dzqIris",
+        "verified": false
+      }
+    ]
+  }
+}

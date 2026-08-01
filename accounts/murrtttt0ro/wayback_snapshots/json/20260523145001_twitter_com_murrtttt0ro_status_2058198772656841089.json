@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058163131395002368",
+    "conversation_id": "2058198772656841089",
+    "created_at": "2026-05-23T14:50:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T15:50:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058198772656841089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2046117898377379840",
+          "start": 3,
+          "username": "kawaii_imai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058198772656841089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058127815011402097",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kawaii_imai: 居然这么快100fo了！剧烈震惊！\n感谢抽奖来了喵(○’ω’○)\n一等奖：白兔*1（折现68）\n二等奖：pr*1（折现20）\n三等奖：玉米片*3（折现6.6）\n虽然仅支持折现（。\n转+关+评参与喵🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058163131395002368",
+        "conversation_id": "2058198772656841089",
+        "created_at": "2026-05-23T14:50:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T15:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058198772656841089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2046117898377379840",
+              "start": 3,
+              "username": "kawaii_imai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058198772656841089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058127815011402097",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kawaii_imai: 居然这么快100fo了！剧烈震惊！\n感谢抽奖来了喵(○’ω’○)\n一等奖：白兔*1（折现68）\n二等奖：pr*1（折现20）\n三等奖：玉米片*3（折现6.6）\n虽然仅支持折现（。\n转+关+评参与喵🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046117898377379840",
+        "conversation_id": "2058127815011402097",
+        "created_at": "2026-05-23T10:08:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T11:08:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058127815011402097"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058127815011402097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1124,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 39,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "居然这么快100fo了！剧烈震惊！\n感谢抽奖来了喵(○’ω’○)\n一等奖：白兔*1（折现68）\n二等奖：pr*1（折现20）\n三等奖：玉米片*3（折现6.6）\n虽然仅支持折现（。\n转+关+评参与喵🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-23T12:30:19.000Z",
+        "description": "愿望是在药效中死去໒  ྀིɞ̴̶̷ . ɞ̴̶̷𓍼ིྀა",
+        "id": "2058163131395002368",
+        "name": "🧊",
+        "pinned_tweet_id": "2058178433088393355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058163949829607424/EzutH29p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 18,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 7
+        },
+        "username": "murrtttt0ro",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-20T06:46:12.000Z",
+        "description": "=小兰/07/🔪💊/🚪52/纯绿无线下/女孩子们请直接来找我扩列💞/同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lan33806",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lan33806",
+                "start": 0,
+                "url": "https://t.co/8Zf5ovcSut"
+              }
+            ]
+          }
+        },
+        "id": "2046117898377379840",
+        "name": "兰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046118655868768256/mRYfjUzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 140,
+          "like_count": 742,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 193
+        },
+        "url": "https://t.co/8Zf5ovcSut",
+        "username": "kawaii_imai",
+        "verified": false
+      }
+    ]
+  }
+}

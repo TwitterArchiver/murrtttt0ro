@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059551155945136128",
+        "3_2059551155945123840"
+      ],
+      "media_source_tweet_id": [
+        "2059551162119209370",
+        "2059551162119209370"
+      ]
+    },
+    "author_id": "2058163131395002368",
+    "conversation_id": "2059696003180306901",
+    "created_at": "2026-05-27T17:59:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T18:59:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059696003180306901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2059229892898893825",
+          "start": 3,
+          "username": "baitao2333"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oQ66ONim54",
+          "end": 75,
+          "expanded_url": "https://x.com/baitao2333/status/2059551162119209370/photo/1",
+          "media_key": "3_2059551155945136128",
+          "start": 52,
+          "url": "https://t.co/oQ66ONim54"
+        },
+        {
+          "display_url": "pic.x.com/oQ66ONim54",
+          "end": 75,
+          "expanded_url": "https://x.com/baitao2333/status/2059551162119209370/photo/1",
+          "media_key": "3_2059551155945123840",
+          "start": 52,
+          "url": "https://t.co/oQ66ONim54"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059696003180306901",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059551162119209370",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @baitao2333: 06｜165｜50\n性格超好 喜欢我的欢迎入门~\n有什么需求都可以私信 https://t.co/oQ66ONim54"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1759,
+        "media_key": "3_2059551155945136128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJT-3Uba4AAiQns.jpg",
+        "width": 1320
+      },
+      {
+        "height": 1374,
+        "media_key": "3_2059551155945123840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJT-3UbasAAO8__.jpg",
+        "width": 1295
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059551155945136128",
+            "3_2059551155945123840"
+          ],
+          "media_source_tweet_id": [
+            "2059551162119209370",
+            "2059551162119209370"
+          ]
+        },
+        "author_id": "2058163131395002368",
+        "conversation_id": "2059696003180306901",
+        "created_at": "2026-05-27T17:59:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T18:59:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059696003180306901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2059229892898893825",
+              "start": 3,
+              "username": "baitao2333"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oQ66ONim54",
+              "end": 75,
+              "expanded_url": "https://x.com/baitao2333/status/2059551162119209370/photo/1",
+              "media_key": "3_2059551155945136128",
+              "start": 52,
+              "url": "https://t.co/oQ66ONim54"
+            },
+            {
+              "display_url": "pic.x.com/oQ66ONim54",
+              "end": 75,
+              "expanded_url": "https://x.com/baitao2333/status/2059551162119209370/photo/1",
+              "media_key": "3_2059551155945123840",
+              "start": 52,
+              "url": "https://t.co/oQ66ONim54"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059696003180306901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059551162119209370",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @baitao2333: 06｜165｜50\n性格超好 喜欢我的欢迎入门~\n有什么需求都可以私信 https://t.co/oQ66ONim54"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059551155945136128",
+            "3_2059551155945123840"
+          ]
+        },
+        "author_id": "2059229892898893825",
+        "conversation_id": "2059551162119209370",
+        "created_at": "2026-05-27T08:23:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T09:23:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059551162119209370"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oQ66ONim54",
+              "end": 59,
+              "expanded_url": "https://x.com/baitao2333/status/2059551162119209370/photo/1",
+              "media_key": "3_2059551155945136128",
+              "start": 36,
+              "url": "https://t.co/oQ66ONim54"
+            },
+            {
+              "display_url": "pic.x.com/oQ66ONim54",
+              "end": 59,
+              "expanded_url": "https://x.com/baitao2333/status/2059551162119209370/photo/1",
+              "media_key": "3_2059551155945123840",
+              "start": 36,
+              "url": "https://t.co/oQ66ONim54"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059551162119209370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "06｜165｜50\n性格超好 喜欢我的欢迎入门~\n有什么需求都可以私信 https://t.co/oQ66ONim54"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-23T12:30:19.000Z",
+        "description": "愿望是在药效中死去໒  ྀིɞ̴̶̷ . ɞ̴̶̷𓍼ིྀა",
+        "id": "2058163131395002368",
+        "name": "🧊",
+        "pinned_tweet_id": "2058178433088393355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058163949829607424/EzutH29p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 66,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 50
+        },
+        "username": "murrtttt0ro",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-26T11:08:07.000Z",
+        "description": "你的瑟瑟女友一枚～🚪288解锁线下",
+        "id": "2059229892898893825",
+        "name": "白桃气泡水",
+        "pinned_tweet_id": "2059551162119209370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059230507012182016/f8KeY9u2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 3,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 10
+        },
+        "username": "baitao2333",
+        "verified": false
+      }
+    ]
+  }
+}

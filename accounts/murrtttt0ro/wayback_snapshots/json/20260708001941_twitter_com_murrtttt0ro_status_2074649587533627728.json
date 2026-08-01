@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058163131395002368",
+    "conversation_id": "2074649587533627728",
+    "created_at": "2026-07-08T00:19:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T01:19:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074649587533627728"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2074649587533627728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想听你亲口跟我说不要跟别人讲话不要跟别人玩你的世界里只能有我这种话…多向我撒撒娇吧…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058163131395002368",
+        "conversation_id": "2074649587533627728",
+        "created_at": "2026-07-08T00:19:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T01:19:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074649587533627728"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074649587533627728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想听你亲口跟我说不要跟别人讲话不要跟别人玩你的世界里只能有我这种话…多向我撒撒娇吧…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-23T12:30:19.000Z",
+        "description": "愿望是在药效中死去໒  ྀིɞ̴̶̷ . ɞ̴̶̷𓍼ིྀა",
+        "id": "2058163131395002368",
+        "name": "🧊",
+        "pinned_tweet_id": "2058178433088393355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058163949829607424/EzutH29p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 75,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 100
+        },
+        "url": "",
+        "username": "murrtttt0ro",
+        "verified": false
+      }
+    ]
+  }
+}

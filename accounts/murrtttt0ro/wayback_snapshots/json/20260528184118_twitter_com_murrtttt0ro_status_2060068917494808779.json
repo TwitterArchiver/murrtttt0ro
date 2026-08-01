@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060068910180016128"
+      ]
+    },
+    "author_id": "2058163131395002368",
+    "conversation_id": "2060068917494808779",
+    "created_at": "2026-05-28T18:41:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T19:41:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060068917494808779"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 6,
+          "start": 0,
+          "tag": "自撮り界隈"
+        },
+        {
+          "end": 11,
+          "start": 7,
+          "tag": "门槛妹"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/t1NDtdwg45",
+          "end": 74,
+          "expanded_url": "https://x.com/murrtttt0ro/status/2060068917494808779/photo/1",
+          "media_key": "3_2060068910180016128",
+          "start": 51,
+          "url": "https://t.co/t1NDtdwg45"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060068917494808779",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#自撮り界隈 #门槛妹 我都这么努力卖萌了还不入我门吗～໒꒰ ྀི ′̥̥̥ ᵔ ‵̥̥̥ ꒱ྀིა https://t.co/t1NDtdwg45"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2060068910180016128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbVwlQbIAAlkwB.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060068910180016128"
+          ]
+        },
+        "author_id": "2058163131395002368",
+        "conversation_id": "2060068917494808779",
+        "created_at": "2026-05-28T18:41:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T19:41:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060068917494808779"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 11,
+              "start": 7,
+              "tag": "门槛妹"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t1NDtdwg45",
+              "end": 74,
+              "expanded_url": "https://x.com/murrtttt0ro/status/2060068917494808779/photo/1",
+              "media_key": "3_2060068910180016128",
+              "start": 51,
+              "url": "https://t.co/t1NDtdwg45"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060068917494808779",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#自撮り界隈 #门槛妹 我都这么努力卖萌了还不入我门吗～໒꒰ ྀི ′̥̥̥ ᵔ ‵̥̥̥ ꒱ྀིა https://t.co/t1NDtdwg45"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-23T12:30:19.000Z",
+        "description": "愿望是在药效中死去໒  ྀིɞ̴̶̷ . ɞ̴̶̷𓍼ིྀა",
+        "id": "2058163131395002368",
+        "name": "🧊",
+        "pinned_tweet_id": "2058178433088393355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058163949829607424/EzutH29p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 75,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 91
+        },
+        "username": "murrtttt0ro",
+        "verified": false
+      }
+    ]
+  }
+}

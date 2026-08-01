@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2076608705530118144"
+      ],
+      "media_source_tweet_id": [
+        "2076608961273557128"
+      ]
+    },
+    "author_id": "2058163131395002368",
+    "conversation_id": "2077110740411187293",
+    "created_at": "2026-07-14T19:19:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T20:19:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077110740411187293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2051928900444291074",
+          "start": 3,
+          "username": "Nisiki_Inu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pQdZCrkr8k",
+          "end": 57,
+          "expanded_url": "https://x.com/Nisiki_Inu/status/2076608961273557128/video/1",
+          "media_key": "13_2076608705530118144",
+          "start": 34,
+          "url": "https://t.co/pQdZCrkr8k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077110740411187293",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 450
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076608961273557128",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nisiki_Inu: あんたに言ってんの！\n⚠️音出ます https://t.co/pQdZCrkr8k"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13281,
+        "height": 1000,
+        "media_key": "13_2076608705530118144",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076608705530118144/img/X7FhF0_m3lmQBuGw.jpg",
+        "public_metrics": {
+          "view_count": 14641
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076608705530118144/vid/avc1/320x320/T05hkYAFkmnEJ98v.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076608705530118144/vid/avc1/540x540/u3PBxEKP4cNZRKpl.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076608705530118144/vid/avc1/720x720/Y6STyB5KM_amf8W6.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076608705530118144/pl/E7esDsRjaBgye95M.m3u8?tag=14&v=09f"
+          }
+        ],
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076608705530118144"
+          ],
+          "media_source_tweet_id": [
+            "2076608961273557128"
+          ]
+        },
+        "author_id": "2058163131395002368",
+        "conversation_id": "2077110740411187293",
+        "created_at": "2026-07-14T19:19:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T20:19:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077110740411187293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2051928900444291074",
+              "start": 3,
+              "username": "Nisiki_Inu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pQdZCrkr8k",
+              "end": 57,
+              "expanded_url": "https://x.com/Nisiki_Inu/status/2076608961273557128/video/1",
+              "media_key": "13_2076608705530118144",
+              "start": 34,
+              "url": "https://t.co/pQdZCrkr8k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077110740411187293",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 450
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076608961273557128",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nisiki_Inu: あんたに言ってんの！\n⚠️音出ます https://t.co/pQdZCrkr8k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076608705530118144"
+          ]
+        },
+        "author_id": "2051928900444291074",
+        "conversation_id": "2076608961273557128",
+        "created_at": "2026-07-13T10:05:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T11:05:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076608961273557128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pQdZCrkr8k",
+              "end": 41,
+              "expanded_url": "https://x.com/Nisiki_Inu/status/2076608961273557128/video/1",
+              "media_key": "13_2076608705530118144",
+              "start": 18,
+              "url": "https://t.co/pQdZCrkr8k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076608961273557128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 376,
+          "impression_count": 43955,
+          "like_count": 2078,
+          "quote_count": 36,
+          "reply_count": 2,
+          "retweet_count": 450
+        },
+        "reply_settings": "everyone",
+        "text": "あんたに言ってんの！\n⚠️音出ます https://t.co/pQdZCrkr8k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-23T12:30:19.000Z",
+        "description": "愿望是在药效中死去໒  ྀིɞ̴̶̷ . ɞ̴̶̷𓍼ིྀა",
+        "id": "2058163131395002368",
+        "name": "🧊",
+        "pinned_tweet_id": "2058178433088393355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058163949829607424/EzutH29p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 75,
+          "like_count": 134,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 108
+        },
+        "url": "",
+        "username": "murrtttt0ro",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-06T07:36:16.000Z",
+        "description": "i7/みんな好き\nちゃんとした漫画はpixivにあります",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/78901435",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/78901435",
+                "start": 0,
+                "url": "https://t.co/V7tFpLnrOT"
+              }
+            ]
+          }
+        },
+        "id": "2051928900444291074",
+        "name": "にしき犬",
+        "pinned_tweet_id": "2064642394528895405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052375391340507137/j5cnVRsY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 44,
+          "like_count": 2082,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 160
+        },
+        "url": "https://t.co/V7tFpLnrOT",
+        "username": "Nisiki_Inu",
+        "verified": false
+      }
+    ]
+  }
+}

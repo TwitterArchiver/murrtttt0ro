@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058163131395002368",
+    "conversation_id": "2059685238536855679",
+    "created_at": "2026-05-27T17:16:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T18:16:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059685238536855679"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 118,
+          "start": 114,
+          "tag": "江浙沪"
+        },
+        {
+          "end": 124,
+          "start": 119,
+          "tag": "天津北京"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2059351136780578816",
+          "start": 3,
+          "username": "jwd56sw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059685238536855679",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059355047000162466",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jwd56sw: 我是牙疼 前世账号2k粉昨天被无缘无故冻结就因为发了黄色视频 这个推特你到底想干嘛\n抖音万粉 下海原因就是没钱没爱没家别问了谢谢 私信只回口令和互转 其他人不回 露脸指定验证视频66🧧 没钱别问 坐标 #江浙沪 #天津北京 欢迎妹子找我互转互fo我爱你…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059354969560719360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJRMbxMaIAAS1yT.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 9200,
+        "height": 640,
+        "media_key": "13_2059354969577574400",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2059354969577574400/img/D6CjCDBQ9Hyxu_ha.jpg",
+        "public_metrics": {
+          "view_count": 379
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059354969577574400/vid/avc1/320x568/Ip2FZlRYxmDNl93L.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059354969577574400/vid/avc1/360x640/tYL381suJxvM_JnB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2059354969577574400/pl/ayFRWBjhakitm_09.m3u8"
+          }
+        ],
+        "width": 360
+      },
+      {
+        "height": 730,
+        "media_key": "3_2059354969581793280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJRMbxRbsAADAc7.jpg",
+        "width": 919
+      },
+      {
+        "height": 1433,
+        "media_key": "3_2059354969577566208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJRMbxQbMAA6Q65.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058163131395002368",
+        "conversation_id": "2059685238536855679",
+        "created_at": "2026-05-27T17:16:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T18:16:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059685238536855679"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 118,
+              "start": 114,
+              "tag": "江浙沪"
+            },
+            {
+              "end": 124,
+              "start": 119,
+              "tag": "天津北京"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2059351136780578816",
+              "start": 3,
+              "username": "jwd56sw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059685238536855679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059355047000162466",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jwd56sw: 我是牙疼 前世账号2k粉昨天被无缘无故冻结就因为发了黄色视频 这个推特你到底想干嘛\n抖音万粉 下海原因就是没钱没爱没家别问了谢谢 私信只回口令和互转 其他人不回 露脸指定验证视频66🧧 没钱别问 坐标 #江浙沪 #天津北京 欢迎妹子找我互转互fo我爱你…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059354969560719360",
+            "13_2059354969577574400",
+            "3_2059354969581793280",
+            "3_2059354969577566208"
+          ]
+        },
+        "author_id": "2059351136780578816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2059355047000162466",
+        "created_at": "2026-05-26T19:24:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T20:24:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059355047000162466"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 105,
+              "start": 101,
+              "tag": "江浙沪"
+            },
+            {
+              "end": 111,
+              "start": 106,
+              "tag": "天津北京"
+            },
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "非绿"
+            },
+            {
+              "end": 135,
+              "start": 132,
+              "tag": "线下"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YXs9UGwT0W",
+              "end": 159,
+              "expanded_url": "https://x.com/jwd56sw/status/2059355047000162466/video/1",
+              "media_key": "3_2059354969560719360",
+              "start": 136,
+              "url": "https://t.co/YXs9UGwT0W"
+            },
+            {
+              "display_url": "pic.x.com/YXs9UGwT0W",
+              "end": 159,
+              "expanded_url": "https://x.com/jwd56sw/status/2059355047000162466/video/1",
+              "media_key": "13_2059354969577574400",
+              "start": 136,
+              "url": "https://t.co/YXs9UGwT0W"
+            },
+            {
+              "display_url": "pic.x.com/YXs9UGwT0W",
+              "end": 159,
+              "expanded_url": "https://x.com/jwd56sw/status/2059355047000162466/video/1",
+              "media_key": "3_2059354969581793280",
+              "start": 136,
+              "url": "https://t.co/YXs9UGwT0W"
+            },
+            {
+              "display_url": "pic.x.com/YXs9UGwT0W",
+              "end": 159,
+              "expanded_url": "https://x.com/jwd56sw/status/2059355047000162466/video/1",
+              "media_key": "3_2059354969577566208",
+              "start": 136,
+              "url": "https://t.co/YXs9UGwT0W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059355047000162466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1294,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "我是牙疼 前世账号2k粉昨天被无缘无故冻结就因为发了黄色视频 这个推特你到底想干嘛\n抖音万粉 下海原因就是没钱没爱没家别问了谢谢 私信只回口令和互转 其他人不回 露脸指定验证视频66🧧 没钱别问 坐标 #江浙沪 #天津北京 欢迎妹子找我互转互fo我爱你们 #非绿 #线下 https://t.co/YXs9UGwT0W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-23T12:30:19.000Z",
+        "description": "愿望是在药效中死去໒  ྀིɞ̴̶̷ . ɞ̴̶̷𓍼ིྀა",
+        "id": "2058163131395002368",
+        "name": "🧊",
+        "pinned_tweet_id": "2058178433088393355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058163949829607424/EzutH29p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 65,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 45
+        },
+        "username": "murrtttt0ro",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-26T19:09:25.000Z",
+        "description": "",
+        "id": "2059351136780578816",
+        "name": "jwd",
+        "pinned_tweet_id": "2059355047000162466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059351382004776960/Zw2MRJrY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 1,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 18
+        },
+        "username": "jwd56sw",
+        "verified": false
+      }
+    ]
+  }
+}

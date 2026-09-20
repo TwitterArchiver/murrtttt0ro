@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2093783030779584512"
+      ],
+      "media_source_tweet_id": [
+        "2093783108810367387"
+      ]
+    },
+    "author_id": "2058163131395002368",
+    "conversation_id": "2093912386424188976",
+    "created_at": "2026-08-30T04:03:10.000Z",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T05:03:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093912386424188976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2062359273708064768",
+          "start": 3,
+          "username": "Karechaninn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nVbFC3fjPB",
+          "end": 45,
+          "expanded_url": "https://x.com/Karechaninn/status/2093783108810367387/video/1",
+          "media_key": "13_2093783030779584512",
+          "start": 22,
+          "url": "https://t.co/nVbFC3fjPB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093912386424188976",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2093783030779584512"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 56
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093783108810367387",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Karechaninn: 縛　🍩🐗 https://t.co/nVbFC3fjPB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29800,
+        "height": 2160,
+        "media_key": "13_2093783030779584512",
+        "preview_image_url": "https://pbs.twimg.com/media/HQ6ckqtbQAAO_5i.jpg",
+        "public_metrics": {
+          "view_count": 1888
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093783030779584512/vid/avc1/480x270/pO2ftxXFQj_0tTnF.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093783030779584512/vid/avc1/640x360/JJXi1BdVLKrM5Si3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093783030779584512/vid/avc1/1280x720/mCALLRRuO-w17gOV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2093783030779584512/pl/3wVwwLRllzyMpNoM.m3u8?v=a6f"
+          }
+        ],
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2093783030779584512"
+          ],
+          "media_source_tweet_id": [
+            "2093783108810367387"
+          ]
+        },
+        "author_id": "2058163131395002368",
+        "conversation_id": "2093912386424188976",
+        "created_at": "2026-08-30T04:03:10.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T05:03:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093912386424188976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2062359273708064768",
+              "start": 3,
+              "username": "Karechaninn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nVbFC3fjPB",
+              "end": 45,
+              "expanded_url": "https://x.com/Karechaninn/status/2093783108810367387/video/1",
+              "media_key": "13_2093783030779584512",
+              "start": 22,
+              "url": "https://t.co/nVbFC3fjPB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093912386424188976",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2093783030779584512"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093783108810367387",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Karechaninn: 縛　🍩🐗 https://t.co/nVbFC3fjPB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2093783030779584512"
+          ]
+        },
+        "author_id": "2062359273708064768",
+        "conversation_id": "2093783108810367387",
+        "created_at": "2026-08-29T19:29:28.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T20:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093783108810367387"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nVbFC3fjPB",
+              "end": 28,
+              "expanded_url": "https://x.com/Karechaninn/status/2093783108810367387/video/1",
+              "media_key": "13_2093783030779584512",
+              "start": 5,
+              "url": "https://t.co/nVbFC3fjPB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093783108810367387",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2093783030779584512"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 3617,
+          "like_count": 198,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "縛　🍩🐗 https://t.co/nVbFC3fjPB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-23T12:30:19.000Z",
+        "description": "愿望是在药效中死去໒  ྀིɞ̴̶̷ . ɞ̴̶̷𓍼ིྀა",
+        "id": "2058163131395002368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093912386424188976",
+        "name": "🧊",
+        "pinned_tweet_id": "2058178433088393355",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2058163131395002368/1779541544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058163949829607424/EzutH29p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 68,
+          "like_count": 343,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 109
+        },
+        "url": "",
+        "username": "murrtttt0ro",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-04T02:24:10.000Z",
+        "description": "20⬆️ 低浮上 雑多 無言フォロー失礼します",
+        "id": "2062359273708064768",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093784430523593160",
+        "name": "42タイ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2062359273708064768/1783323746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092593865475919872/5B1V_9U0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 22,
+          "like_count": 225,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 228
+        },
+        "url": "",
+        "username": "Karechaninn",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
